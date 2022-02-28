@@ -15,7 +15,7 @@ This map showes the covid19 mortality rate by country. It is made with pandas an
 ## Setup
 To run this python script, you need to download and unzip the code. If you don´t have python, you need to [install it first](https://www.python.org/downloads/).
 
-Run a terminal command in game folder and run the follow command:
+Run a terminal command in your downloaded folder and run the follow command:
 ```
 python map_covid.py
 ```
